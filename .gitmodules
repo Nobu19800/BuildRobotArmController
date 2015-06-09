@@ -1,0 +1,9 @@
+[submodule "RTCs/RobotArmController"]
+	path = RTCs/RobotArmController
+	url = https://github.com/Nobu19800/RobotArmController.git
+[submodule "RTCs/Adafruit_PWMServoDriver_Edison"]
+	path = RTCs/Adafruit_PWMServoDriver_Edison
+	url = https://github.com/Nobu19800/Adafruit_PWMServoDriver_Edison.git
+[submodule "RTCs/CrawlerControllerPWM2"]
+	path = RTCs/CrawlerControllerPWM2
+	url = https://github.com/Nobu19800/CrawlerControllerPWM2.git
