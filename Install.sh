@@ -7,4 +7,4 @@ tar -xf 3.2.4.tar.gz
 
 sh build/Unix_Makefiles_Genarate.sh
 sh build/BuildRelease.sh
-sh build/install.sh
+sh build/Install.sh
